@@ -1,7 +1,7 @@
-Excel Clone
+## Excel Clone
 
-• Created a spreadsheet application using Vanilla JavaScript, HTML and CSS 
+- Created a spreadsheet application using Vanilla JavaScript, HTML and CSS 
 
-• Implemented formating and alignment using different CSS properties
+- Implemented formating and alignment using different CSS properties
 
-• Used Graph data structure to implement Excel formula
+- Used Graph data structure to implement Excel formula
